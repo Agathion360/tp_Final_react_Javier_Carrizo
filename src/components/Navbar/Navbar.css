@@ -1,0 +1,43 @@
+header.navbar{
+    background-color: rgb(226, 226, 226);
+    
+}
+
+.logolink{
+   width: 230px;
+}
+.logonavbar{
+  width: 210px;
+    
+}
+
+li{
+    margin: 0.5rem;
+    cursor: pointer;
+}
+li:hover{
+    color: rgb(133, 128, 128);
+}
+
+
+.nav-item a{
+    font-family: Overpass;
+    font-weight: 600;
+    text-decoration: none;
+    list-style: none;
+    color: #111111
+   
+}
+
+.nav-item a:hover{
+    
+}
+
+.navbar-toggler{
+    border: none;
+}
+.navbar-toggler:focus{
+    outline: none;
+    box-shadow: none;
+}
+

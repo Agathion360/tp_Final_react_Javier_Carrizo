@@ -1,0 +1,49 @@
+.contenedorItem h2{
+    font-size: 27px;
+    font-family: Overpass;
+    font-weight: 600;
+    color: #555555;
+    
+}
+
+.contenedorItem{
+    margin-top: 50px;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.contimg{
+    overflow: hidden;
+}
+.imgproducto{
+    transition: 0.5s;
+    object-fit: cover;
+}
+.imgproducto:hover{
+    transform: scale(1.3);
+}
+
+.is-divider.small{
+    height: 3px;
+    display: block;
+    background-color: rgba(0,0,0,.1);
+    margin: 1em 0;
+    width: 100%;
+    max-width: 30px;
+}
+
+.carde-txt{
+    font-family: Overpass;
+    font-weight: 200;
+    color:#777777
+}
+.card-text{
+    font-family: Overpass;
+    font-size: 18px;  
+    color:#777777  
+}
+.card-text strong{
+    font-family: Overpass;
+    font-size: 24px;
+    color: #111111;
+}
